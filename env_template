@@ -1,0 +1,8 @@
+OPENAI_KEY='Your OpenAI API Key'
+OPENAI_ASSISTANTS_ID='Your OpenAI Assistant ID'
+TG_API_ID='Your Telegram API ID'
+TG_API_HASH='Your Telegram API Hash'
+OKX_API_KEY='Your OKX API Key'
+OKX_SECRET_KEY='Your OKX Secret Key'
+OKX_API_PASSPHRASE='Your OKX API Passphrase'
+WATCH_LIST='the list of coins you want to watch, separated by commas' # e.g. 'drkying,Crypto_Industry_Vip'
