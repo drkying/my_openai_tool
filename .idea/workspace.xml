@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada92af6-8ebb-42b5-8215-8564e4234356" name="更改" comment="feat: Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ada92af6-8ebb-42b5-8215-8564e4234356" name="更改" comment="feat: add env template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,6 +247,7 @@
       <workItem from="1734361362936" duration="78000" />
       <workItem from="1734361447601" duration="501000" />
       <workItem from="1734361957360" duration="219000" />
+      <workItem from="1734362190572" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Initial commit">
       <option name="closed" value="true" />
@@ -266,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734361532790</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add env template">
+      <option name="closed" value="true" />
+      <created>1734362803978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734362803978</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +304,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Initial commit" />
+    <MESSAGE value="feat: add env template" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add env template" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/e2btc$yasuo.coverage" NAME="yasuo 覆盖结果" MODIFIED="1734071933252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/army" />
